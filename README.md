@@ -4,7 +4,7 @@
 
 Intel x86 code to brute force the 32-bit key used to RC4 encrypt .pwl files. 
 
-Assembles to a 992 byte .COM file using [IASM, the Intel Architecture Assembler v1.0](http://web.archive.org/web/19981205090800/http://www.dcc.ufmg.br/~augusto/project/iasm.zip iasm) Copyright (c) 1998 augusto at dcc.ufmg.br. 
+Assembles to a 992 byte .COM file using [IASM, the Intel Architecture Assembler v1.0](http://web.archive.org/web/19981205090800/http://www.dcc.ufmg.br/~augusto/project/iasm.zip title="Download IASM") Copyright (c) 1998 augusto at dcc.ufmg.br. 
 
 ## Do this to assemble: ##
 
